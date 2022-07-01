@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Fábio Silva</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <img src="001.jpg" alt="foto de uma pilula" class="photo">
+            <h1 id="title">Fábio Silva</h1>
+        </header>
+            <section>
+                <header>
+                    <h2 class="subtitle">Posts</h2>
+                </header>
+                <article class="post">
+                    <header>
+                        <h3 class="post_title">Posts #1</h3>
+                        <img src="01.jpg" alt="foto de um dragão" class="post_image">
+                    </header>
+                    <p class="post_content">
+                        Aprendiazado de contéudo sobre HTML 5, utilizando CSS3. a imagem acima é como qualquer outra na internet colocada por algum usuário de criação de artes ou conteúdo. Teste hiperlink utilizado para o
+                        <a href="https://www.linkedin.com/in/f%C3%A1bio-silva-12b43a187/" target="_blank">Linkedin</a> e támbem um teste para utilização de <a href="mailto:fabio.silva@gmail.com"> email</a> por enquanto é isso.
+                    
+                        </p>
+                </article>
+            </section>
+            <footer>
+                <ul class="contact_list">
+                    <li>
+                        <a href="mailto:fabio.pereira@hotmail.com" target="_blank">email</a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/f%C3%A1bio-silva-12b43a187/" target="_blank">Linkedin</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/P-Fabio-S" target="_blank">github</a>
+                    </li>
+                </ul>
+            </footer>
+    </body>
+</html>
